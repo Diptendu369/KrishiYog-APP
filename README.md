@@ -52,7 +52,7 @@ Ensure you have the following installed:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/krishi-yog.git
+   git clone https://github.com/Diptendu369/KrishiYog-APP.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -80,6 +80,6 @@ We welcome contributions! Feel free to open issues or submit pull requests.
 This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
-For inquiries or suggestions, contact [your-email@example.com](mailto:your-email@example.com).
+For inquiries or suggestions, contact [diptendukumar_jashu@srmap.edu.in](mailto:diptendukumar_jashu@srmap.edu.in).
 
-[GitHub Repository](https://github.com/your-username/krishi-yog)
+[GitHub Repository](https://github.com/Diptendu369/KrishiYog-APP)
